@@ -1,5 +1,5 @@
 # 3D-printed-speaker
-This project is not a program, so there is no source file. But it may be future work to include programmable LEDs to realize a very cool effect. This project intends to design and assemble a small speaker. 
+This project is not a program, so there is no source code. But it may be future work to include programmable LEDs to realize a very cool effect. This project intends to design and assemble a small speaker. 
 
 ## Demo
 <div align="center">
