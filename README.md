@@ -13,7 +13,10 @@ Rhinoceros 3D.
 
 ## Design
 <p align="center"> 
-<img src="./figures/perspective.JPG" width="60%">
+<img src="./figures/perspective.JPG" width="55%">
+</p>
+<p align="center"> 
+<img src="./figures/inside_2.JPG" width="55%">
 </p>
 
 <p float="left" align="center"> 
